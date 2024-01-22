@@ -1,6 +1,5 @@
 public class sorting {
     public static void main(String[] args) {
-        // Hardcoded array
         int[] myArray = {64, 34, 25, 12, 22, 11, 90};
 
         // Bubble Sort
