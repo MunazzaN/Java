@@ -1,4 +1,4 @@
-package additional;
+package FunctionalInterface;
 public class palin {
 
     public static boolean isPalindrome(int number) {

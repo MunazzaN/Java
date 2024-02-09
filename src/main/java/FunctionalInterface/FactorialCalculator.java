@@ -1,4 +1,4 @@
-package additional;
+package FunctionalInterface;
 public class FactorialCalculator {
     public static int findfactorial(int num) {
 
